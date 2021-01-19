@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "watch": true,
+        "target": "es5",
+        "lib": ["es6", "dom"]
+    }
+}
